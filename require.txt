@@ -1,0 +1,18 @@
+--HomePage
+   --Add user button--->take input data and add it to the list
+   --filter options
+--Take data as input and add it to the list;
+given data-:
+name,
+email,
+placed,
+passed year,
+higher study--yes or No,
+S.No,
+Branch;
+
+
+
+
+
+

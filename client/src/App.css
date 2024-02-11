@@ -1,0 +1,130 @@
+
+
+/* ADD USER */
+section {
+  background-color: #e3efcf;
+  padding: 20px;
+  text-align: center;
+}
+
+.form-container {
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.form-title {
+  font-size: 24px;
+}
+
+.form-label {
+  display: block;
+  /* margin-bottom: 5px; */
+  text-align: left;
+}
+
+.form-input {
+  width: 100%;
+  padding: 4px;
+  margin-bottom: 8px;
+  border: 2px solid #ccc;
+  border-radius: 15px;
+}
+.form-select {
+  width: 30%;
+  padding: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  float: left;
+}
+
+.form-phone {
+  width: 70%;
+  float: left;
+}
+
+.form-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #0056b3;
+}
+
+.req {
+  color: red;
+}
+
+::placeholder {
+  text-align: left;
+  padding-left: 10px;
+}
+
+/* HOME */
+
+.home-page {
+ 
+   text-align: center;
+   padding-top: 10%;
+}
+
+.welcome{
+  color: #007bff;
+  font-size: large;
+  padding-bottom: 0%;
+  font-weight: 500;
+}
+
+/* ErrorPage */
+
+.notfound h1 {
+  text-align: center;
+  font-size: 240px;
+  color: #2c3eb2;
+  margin-top: 10px;
+}
+.notfound h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #000107;
+  margin-top: 10px;
+  margin-left: 60px;
+}
+
+/* UserList */
+table, th, td ,tr{
+  border: 1px solid black;
+  width: 500px;
+  text-align: left;
+  padding: 16px;
+}
+.user-search{
+  text-align: center;
+}
+.from-control{
+  margin: 10px;
+}
+select{
+  padding: 3px;
+}
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
